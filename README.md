@@ -13,13 +13,13 @@ This project focuses on training the Pix2Pix architecture using PyTorch to perfo
 
 ## Results
 
-![Satellite Image](Results\2f2a3d7a-2d89-446e-b1c9-859c69d9e3b7.jpg) 
+![Satellite Image](Results/2f2a3d7a-2d89-446e-b1c9-859c69d9e3b7.jpg) 
 
 ![Satellite Image](Results/27572218-904b-478f-8fd7-7e94316ecc43.jpg)
 
-![Satellite Image](Results\a33f3945-8fc1-4529-85ff-ea29a0c578e2.jpg)
+![Satellite Image](Results/a33f3945-8fc1-4529-85ff-ea29a0c578e2.jpg)
 
-![Satellite Image](Results\d20b5b36-1c7e-4dda-b027-6bee9a8e1f77.jpg)
+![Satellite Image](Results/d20b5b36-1c7e-4dda-b027-6bee9a8e1f77.jpg)
 
-![Satellite Image](Results\d65fd023-61c4-4274-805a-05d3cc7e0d47.jpg)
+![Satellite Image](Results/d65fd023-61c4-4274-805a-05d3cc7e0d47.jpg)
 
